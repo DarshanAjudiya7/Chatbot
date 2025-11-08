@@ -78,7 +78,7 @@ ollama serve
 
 | Web Chat UI                                   | Example Conversation                    |
 | --------------------------------------------- | --------------------------------------- |
-| ![Chat UI Screenshot](assets/screenshot1.png) | ![Chat Example](assets/screenshot2.png) |
+| ![Chat UI Screenshot](assets/ChatUI.jpg) | ![Chat Example](assets/ChatExample.jpg) |
 
 ---
 
